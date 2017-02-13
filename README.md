@@ -1,1 +1,1 @@
-# plu-lang
+[Wiki](https://github.com/buildrz/plu-lang/wiki)
